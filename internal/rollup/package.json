@@ -10,5 +10,8 @@
         "tmp": "0.0.33",
         "typescript": "3.3.3333",
         "uglify-es": "3.3.9"
+    },
+    "dependencies": {
+        "rollup-plugin-commonjs": "^9.2.1"
     }
 }
